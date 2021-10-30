@@ -1,0 +1,9 @@
+setup.py
+src/api.py
+src/test.py
+src/sample.egg-info/PKG-INFO
+src/sample.egg-info/SOURCES.txt
+src/sample.egg-info/dependency_links.txt
+src/sample.egg-info/not-zip-safe
+src/sample.egg-info/requires.txt
+src/sample.egg-info/top_level.txt

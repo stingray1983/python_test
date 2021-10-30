@@ -18,3 +18,6 @@ def print_sum(x,y):
     1
     """
     return (x+y)
+
+print (print_sum(2,3))
+
